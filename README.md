@@ -1,4 +1,11 @@
 # LaceUp – Sneaker Review Platform
+## Tech Stack
+
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Spring Boot](https://img.shields.io/badge/Backend-SpringBoot-green)
+![Java](https://img.shields.io/badge/Language-Java-orange)
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
+![Git](https://img.shields.io/badge/VersionControl-Git-red)
 
 LaceUp is a full-stack web platform where users can explore, review, and rate sneakers.  
 The application allows sneaker enthusiasts to share opinions, view community ratings, and discover popular sneaker models.
