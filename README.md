@@ -14,6 +14,10 @@ Backend
 Database
 - MySQL
 
+Tools
+- Git
+- REST APIs
+
 ## Features
 
 - User authentication
