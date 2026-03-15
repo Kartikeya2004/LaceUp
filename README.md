@@ -56,7 +56,7 @@ http://localhost:3000
 
 ## Screenshots
 ### Homepage
-![Homepage](screenshots/home.png)
+![Homepage](screenshots/homepage.png)
 ### Sneaker Listing
 ![Sneaker Listing](screenshots/listing.png)
 ### Sneaker Details
